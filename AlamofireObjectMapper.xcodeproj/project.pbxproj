@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4A6BF3382E4D129200F4BC57 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 4A6BF3372E4D129200F4BC57 /* PrivacyInfo.xcprivacy */; };
+		4A6BF3392E4D129200F4BC57 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 4A6BF3372E4D129200F4BC57 /* PrivacyInfo.xcprivacy */; };
 		6AB2A0171AF26C36001EBB20 /* AlamofireObjectMapper.h in Headers */ = {isa = PBXBuildFile; fileRef = 6AB2A0161AF26C36001EBB20 /* AlamofireObjectMapper.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6AB2A01D1AF26C36001EBB20 /* AlamofireObjectMapper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6AB2A0111AF26C36001EBB20 /* AlamofireObjectMapper.framework */; };
 		6AB2A0241AF26C36001EBB20 /* AlamofireObjectMapperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AB2A0231AF26C36001EBB20 /* AlamofireObjectMapperTests.swift */; };
@@ -161,6 +163,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4A6BF3372E4D129200F4BC57 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		6AB2A0111AF26C36001EBB20 /* AlamofireObjectMapper.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AlamofireObjectMapper.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AB2A0151AF26C36001EBB20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6AB2A0161AF26C36001EBB20 /* AlamofireObjectMapper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AlamofireObjectMapper.h; sourceTree = "<group>"; };
@@ -272,6 +275,7 @@
 				6AB2A0161AF26C36001EBB20 /* AlamofireObjectMapper.h */,
 				6AB2A02D1AF2746D001EBB20 /* AlamofireObjectMapper.swift */,
 				6AB2A0141AF26C36001EBB20 /* Supporting Files */,
+				4A6BF3372E4D129200F4BC57 /* PrivacyInfo.xcprivacy */,
 			);
 			path = AlamofireObjectMapper;
 			sourceTree = "<group>";
@@ -690,6 +694,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A6BF3382E4D129200F4BC57 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -697,6 +702,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A6BF3392E4D129200F4BC57 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
